@@ -2,7 +2,7 @@
 <p align="center">I'm Nahuel Bello, Full Stack Developer from <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png" alt="argentina" width="10" height="10"/> Buenos Aires, Argentina.</h2>
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/sushrutkm" target="blank">
+  <a href="https://linkedin.com/in/nahuel-bello" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://drive.google.com/file/d/11bORPnmWCckwbZrvizHCwccbXGv29olD/view?usp=sharing" target="blank">
