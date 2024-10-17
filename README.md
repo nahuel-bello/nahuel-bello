@@ -23,8 +23,9 @@
     <img src="resources/mongodb.svg" alt="mongodb" width="45" height="45"/>
     <img src="resources/mysql.svg" alt="mysql" width="45" height="45"/>
     <img src="resources/postgresql.svg" alt="postgresql" width="45" height="45"/>
-    <img src="resources/vue.svg" alt="vue" width="45" height="45"/>
+    <img src="resources/postman.svg" alt="css3" width="45" height="45"/>
     <img src="resources/vitejs.svg" alt="vite" width="45" height="45"/>
+    <img src="resources/vue.svg" alt="vue" width="45" height="45"/>
     <img src="resources/html.svg" alt="html5" width="45" height="45"/>
     <img src="resources/css.svg" alt="css3" width="45" height="45"/>
 </div>
