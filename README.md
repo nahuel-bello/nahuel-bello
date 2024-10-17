@@ -5,9 +5,6 @@
   <a href="https://linkedin.com/in/nahuel-bello" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/11bORPnmWCckwbZrvizHCwccbXGv29olD/view?usp=sharing" target="blank">
-    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=about.me&logoColor=white" alt="Resume Badge"/>
-  </a>
 </div>
 
 <br>
